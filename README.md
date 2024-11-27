@@ -1,9 +1,3 @@
-Here’s a polished README template for your GitHub custom portfolio:
-
----
-
-# 🌟 Gokuleshwaran Narayanan – Portfolio 🚀
-
 Welcome to my GitHub Portfolio! This repository showcases my journey as a **blockchain developer**, **AI enthusiast**, and **software engineer**, highlighting the projects, skills, and accomplishments I’m most proud of.
 
 ## 📝 About Me
@@ -52,5 +46,3 @@ I’m currently pursuing my **Master’s in Computer Science** at **NYU Tandon S
 Feel free to explore the repository and reach out if you’d like to collaborate or discuss exciting opportunities!
 
 ---
-
-This README is clean, professional, and highlights your skills and projects effectively while engaging potential collaborators or employers. Let me know if you want additional tweaks!
