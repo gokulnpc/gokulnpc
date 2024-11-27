@@ -1,5 +1,3 @@
-Welcome to my GitHub Portfolio! This repository showcases my journey as a **blockchain developer**, **AI enthusiast**, and **software engineer**, highlighting the projects, skills, and accomplishments I’m most proud of.
-
 ## 📝 About Me
 I’m currently pursuing my **Master’s in Computer Science** at **NYU Tandon School of Engineering** and am passionate about leveraging technology to solve real-world challenges. With 1.5+ years of professional experience in **backend development** and **blockchain solutions**, I’ve built smart contracts, SDKs, APIs, and scalable web applications. I also actively participate in hackathons, collaborate with global teams, and explore cutting-edge advancements in Web3 and AI.
 
