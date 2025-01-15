@@ -34,6 +34,7 @@ I’m currently pursuing my **Master’s in Computer Science** at **NYU Tandon S
 ---
 
 ## 🎓 Achievements
+- **Avalanche x MBC Hackathon Winner**: $1500 cash prize
 - **QuickNode Hackathon Winner**: $1000 cash prize.
 - **Finalist in Cornell Hackathon – J&J Talent 2.0**: Innovative talent acquisition solution.
 - **Published Papers**: Blockchain-based solutions in **IEEE Xplore** and **MDPI**.
