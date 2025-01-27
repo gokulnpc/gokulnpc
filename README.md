@@ -5,17 +5,17 @@ I’m currently pursuing my **Master’s in Computer Science** at **NYU Tandon S
 
 ## 📌 Featured Projects
 
-### 🔗 [NFTVerse](https://github.com/your-username/NFTVerse)
+### 🔗 [NFTVerse](https://github.com/gokulnpc/NFTVerse)
 - **Description**: An AI-powered NFT marketplace enabling users to mint, trade, and manage NFTs using cross-chain functionality.
 - **Technologies**: Solidity, Ethereum, Polygon, DALL·E API, React, Node.js.
 - **Highlights**: Winner of **QuickNode Hackathon**.
 
-### 🎯 [MemeCoin Launchpad](https://github.com/your-username/MemeCoinLaunchpad)
+### 🎯 [MemeCoin Launchpad](https://github.com/gokulnpc/MemeCoinLaunchpad)
 - **Description**: A decentralized platform on Avalanche for MemeCoin projects, featuring tokenomics for long-term sustainability.
 - **Technologies**: Solidity, Avalanche, React, Node.js, AvaCloud APIs.
 - **Highlights**: Focused on user-friendly design and scalability.
 
-### 📊 [Human Activity Recognition Using Federated Learning](https://github.com/your-username/HAR)
+### 📊 [Human Activity Recognition Using Federated Learning](https://github.com/gokulnpc/HAR)
 - **Description**: A smartphone-based activity classifier achieving 97% accuracy using Federated Learning.
 - **Technologies**: Python, TensorFlow, Pandas, OpenCV.
 - **Highlights**: Preprocessed accelerometer data to create advanced feature engineering.
