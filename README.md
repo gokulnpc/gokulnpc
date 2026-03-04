@@ -17,7 +17,7 @@ Multi-agent crypto market intelligence system. Automated 6 agents analyzing 10,0
 Real-time ASL fingerspelling recognition + word resolution pipeline on AWS (WebSocket, Lambda, Kinesis, Redis) with MongoDB Atlas Search powered RAG for correction and disambiguation.
 
 ### 🛡️ DeFi Guardians
-🔗 https://github.com/gokulnpc/Defi-Guardian
+🔗 https://github.com/gokulnpc/Defi-Guardian   
 ETHGlobal NYC Winner (Chainlink CCIP track). Built a DeFi insurance workflow for safer onchain usage.
 
 ---
